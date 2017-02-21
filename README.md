@@ -8,7 +8,9 @@ the system have hardware component
 which is:-
 - ratting device for getting customer suggestion
 - finger print attendace checking device for getting attendace of the employee
+
 the system will have web application for:-
+
 - receiving customer suggestion
 - receiving customer report
 - presenting collected data and many more listed in sds document
